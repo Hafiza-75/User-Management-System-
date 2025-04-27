@@ -28,11 +28,3 @@ The system demonstrates file handling with binary files, basic structs, and menu
 ---
 ## Sample Output:
 ![sample output](https://github.com/user-attachments/assets/93d143da-cc71-4a67-a5c7-ae67d9b4602b)
-
-## 🚀 How to Run
-
-1. Clone this repository or download the `.c` file.
-2. Open the project in any C IDE (like CodeBlocks, Visual Studio Code) or terminal.
-3. Compile the file using:
-   ```bash
-   gcc user_management.c -o user_management
